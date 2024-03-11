@@ -30,11 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and102/nskjK-Aw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://submissions.us-east-1.linodeobjects.com/and102/nskjK-Aw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+![](https://github.com/Rajeshtims/CodepathAND102_Unit3Project/blob/main/App_gif.gif)
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-
 [Kap](https://getkap.co/) for macOS
 
 
